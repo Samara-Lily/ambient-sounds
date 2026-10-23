@@ -8,11 +8,11 @@ Just load up the app, hit play and move the sliders around to make the overall s
 ---
 
 ### Desktop
-![screenshots/desktop.png]
+![Screenshot of desktop UI](screenshots/desktop.png)
 
 ### Mobile
-![screenshots/mobile.png]
-![screenshots/background-play.png]
+![Screenshot of mobile UI](screenshots/mobile.png)
+![Screenshot of Android background play feature](screenshots/background-play.png)
 
 
 
