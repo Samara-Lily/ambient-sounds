@@ -7,6 +7,8 @@ Just load up the app, hit play and move the sliders around to make the overall s
 
 ---
 
+
+## Screenshots
 ### Desktop
 ![Screenshot of desktop UI](screenshots/desktop.png)
 
@@ -14,19 +16,21 @@ Just load up the app, hit play and move the sliders around to make the overall s
 ![Screenshot of mobile UI](screenshots/mobile.png)
 ![Screenshot of Android background play feature](screenshots/background-play.png)
 
+---
 
+## Support
 
-**Runs on:** 
+**Tested on:** 
  - Android
  - Desktop
  - Web
 
-\*I have plans to build IOS support too, but I need to get a dev environment and test device set up for that first.
+\*IOS support us coming, but I need to get a dev environment set up first.
 
 ---
 
 ## Installing
-I'm in the process of getting this on the play store and other marketplaces - for now, getting it running is more of a manual process. 
+Coming soon to the Play Store and other marketplaces - for now, getting it running is more of a manual process. 
 
 ### Android
 You can download and install the APK. You'll likely need to enable software sources in order for your phone to allow the installation.
