@@ -1,0 +1,16 @@
+product: android/app
+
+dependencies:
+  - //shared
+  - $libs.androidx.activity.compose
+  - $compose.preview
+  - $compose.uiTooling
+  - $libs.exoplayer
+  - $libs.mediasessionservice
+
+settings:
+  compose: enabled
+  android:
+    namespace: uk.thehunt.sleep
+    applicationId: uk.thehunt.sleep
+    signing: enabled

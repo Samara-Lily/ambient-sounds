@@ -1,0 +1,30 @@
+product:
+  type: kmp/lib
+  platforms: [android, iosArm64, iosSimulatorArm64, jvm, wasmJs]
+
+dependencies:
+  - $compose.runtime
+  - $compose.foundation
+  - $compose.material3
+  - $compose.ui
+  - $compose.components.resources
+  - $compose.preview
+  - $compose.hotReload.runtimeApi
+  - $libs.androidx.lifecycle.viewmodel.compose
+  - $libs.androidx.lifecycle.runtime.compose
+  - $libs.k.toast
+  - $libs.soundlibs.mp3spi
+  - $libs.adaptive
+
+dependencies@android:
+  - $compose.uiTooling
+  - androidx.media3:media3-exoplayer:1.3.1
+  - $libs.mediasessionservice
+
+settings:
+  compose:
+    enabled: true
+    resources:
+      packageName: uk.thehunt.sleep.resources
+      # Generate public accessors so other modules (and previews) can use Res.*
+      exposedAccessors: true
