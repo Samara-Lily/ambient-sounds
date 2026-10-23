@@ -37,19 +37,25 @@ You can download and install the APK. You'll likely need to enable software sour
 [Download APK](release/Ambient%20Sounds.apk)
 
 ### Manual Build
-To build on Linux, clone the repo and cd into the root of it. Then run: 
+This is a Kotlin multiplatform (KMP) app so a lot of the docs surrounding KMP or composable will be helpful for custom builds. On Linux you can see build options by cloning into the repo and running: 
 ``` bash
 ./kotlin --help
 ```
-for more info. 
 
-To build on Android, you can do: 
+
+To build on Android you will have to update the keystore information in: 
+``` plaintext
+ambient-sounds/androidApp/keystore.properties
+
+```
+and you can then do: 
 ``` bash
 ./kotlin build -p android -v release
 ```
-
+or open the project in Android Studio and use the build options there.
 
 ---
 
 ## Thank You!
-I hope you like it. It's still early days but I'll be adding to this where I can. 
+It's still early days for this project but I hope you like it!
+I'll be adding to this where I can. 
