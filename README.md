@@ -46,7 +46,6 @@ This is a Kotlin multiplatform (KMP) app so a lot of the docs surrounding KMP or
 To build on Android you will have to update the keystore information in: 
 ``` plaintext
 ambient-sounds/androidApp/keystore.properties
-
 ```
 and you can then do: 
 ``` bash
