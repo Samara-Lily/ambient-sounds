@@ -1,4 +1,4 @@
-# Ambient Sounds, Platform
+# Ambient Sounds, Multi-Platform
 Some time ago, I used to rely heavily on an app that would let you layer up nice sounds to make a soothing ambience for sleep. After a while, it got filled with ads, and more and more features got pulled away until it was entirely paywalled - it gradually became a shadow of it's former self and I've missed it ever since.
 
 This app aims to fill it's place, and **this one's staying free forever.** 
