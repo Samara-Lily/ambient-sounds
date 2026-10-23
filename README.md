@@ -58,3 +58,10 @@ or open the project in Android Studio and use the build options there.
 ## Thank You!
 It's still early days for this project but I hope you like it!
 I'll be adding to this where I can. 
+
+
+### Want to support me? You can donate via PayPal or Crypto:
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG9MBXD7BGCFG)
+
+![Litecoin wallet address](images/Litecoin%20receive.png)
